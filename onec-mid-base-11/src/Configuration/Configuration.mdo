@@ -1197,8 +1197,8 @@
   <catalogs>Catalog.НастройкиАвторизацииИнтернетСервисов</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.НоменклатурныеГруппы</catalogs>
-  <catalogs>Catalog.Организации</catalogs>
   <catalogs>Catalog.ОрганизацииПрисоединенныеФайлы</catalogs>
+  <catalogs>Catalog.Организации</catalogs>
   <catalogs>Catalog.ПапкиФайлов</catalogs>
   <catalogs>Catalog.Пользователи</catalogs>
   <catalogs>Catalog.ПользовательскиеНастройкиОтчетов</catalogs>
